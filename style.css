@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+    background-color: black;
+}
+
+h2{
+    color: rgb(255,0,0);
+}
+h3{
+    font-size: 100px;
+}
+
+p{
+    color:crimson;
+    background-color: black;
+    height: 250px;
+    width: 380px;
+}
